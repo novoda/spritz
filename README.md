@@ -1,3 +1,4 @@
+[![Build status](https://ci.novoda.com/buildStatus/icon?job=spritz)](https://ci.novoda.com/job/spritz/lastBuild/console) [![Download](https://api.bintray.com/packages/novoda/maven/spritz/images/download.svg)](https://bintray.com/novoda/maven/spritz/_latestVersion) [![](https://raw.githubusercontent.com/novoda/novoda/master/assets/btn_apache_lisence.png)](LICENSE.txt)
 <img src="images/spritz-header.png" />
 
 <img src="images/banner.png" />
@@ -117,21 +118,3 @@ Please note that the autoplay animation is always played after the user swipes f
 
 The swipe animation is started and progressed as the user drags the view pager back and forth. To set the duration of a page swipe animation, use
 `withSwipeDuration`. This animation is not optional, since it's what this library has been created for :P.
-
-## License
-
-```
-   Copyright 2017 Novoda
-
-   Licensed under the Apache License, Version 2.0 (the "License");
-   you may not use this file except in compliance with the License.
-   You may obtain a copy of the License at
-
-     http://www.apache.org/licenses/LICENSE-2.0
-
-   Unless required by applicable law or agreed to in writing, software
-   distributed under the License is distributed on an "AS IS" BASIS,
-   WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
-   See the License for the specific language governing permissions and
-   limitations under the License.
-```
