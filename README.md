@@ -1,3 +1,5 @@
+# 🛑 THIS REPOSITORY IS OFFICIALLY NO LONGER UNDER MAINTENANCE since 10/02/2022 🛑
+
 [![Build status](https://ci.novoda.com/buildStatus/icon?job=spritz)](https://ci.novoda.com/job/spritz/lastBuild/console) [![Download](https://api.bintray.com/packages/novoda/maven/spritz/images/download.svg)](https://bintray.com/novoda/maven/spritz/_latestVersion) [![License](https://img.shields.io/github/license/novoda/spritz.svg)](https://github.com/novoda/spritz/blob/master/LICENSE.txt)
 <img src="images/spritz-header.png" />
 
